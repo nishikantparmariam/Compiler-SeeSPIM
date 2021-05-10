@@ -479,7 +479,7 @@ For example -
 
 ```
 make all
-./out < test_programs/recursion_with_memoization_dp_program.c
+./out < test_programs/recursion_with_memoization_dp_program.see
 spim -file target.s
 ```
 
@@ -495,18 +495,18 @@ Following test programs have been implemented. There tasks are self-explanatory 
 
 | Command | Program File | 
 | :---: | :---: | 
-| ```make recursive_factorial``` | [recursive_factorial_program.c](test_programs/recursive_factorial_program.c) |
-| ```make error_check``` | [error_check_program.c](test_programs/error_check_program.c) |
-| ```make binary_search``` | [binary_search_program.c](test_programs/binary_search_program.c) |
-| ```make recursion_with_memoization_dp``` | [recursion_with_memoization_dp_program.c](test_programs/recursion_with_memoization_dp_program.c) |
-| ```make loops_breaks_continue``` | [loops_breaks_continue_program.c](test_programs/loops_breaks_continue_program.c) |
-| ```make ternary_operators``` | [ternary_operators_program.c](test_programs/ternary_operators_program.c) |
-| ```make complex_expressions``` | [complex_expressions_program.c](test_programs/complex_expressions_program.c) |
-| ```make multi_dimensional_array``` | [multi_dimensional_array_program.c](test_programs/multi_dimensional_array_program.c) |
-| ```make function_calls``` | [function_calls_program.c](test_programs/function_calls_program.c) |
-| ```make conditional_statements``` | [conditional_statements_program.c](test_programs/conditional_statements_program.c) |
-| ```make strings``` | [strings_program.c](test_programs/strings_program.c) |
-| ```make block_and_scope``` | [block_and_scope_program.c](test_programs/block_and_scope_program.c) |
+| ```make recursive_factorial``` | [recursive_factorial_program.see](test_programs/recursive_factorial_program.see) |
+| ```make error_check``` | [error_check_program.see](test_programs/error_check_program.see) |
+| ```make binary_search``` | [binary_search_program.see](test_programs/binary_search_program.see) |
+| ```make recursion_with_memoization_dp``` | [recursion_with_memoization_dp_program.see](test_programs/recursion_with_memoization_dp_program.see) |
+| ```make loops_breaks_continue``` | [loops_breaks_continue_program.see](test_programs/loops_breaks_continue_program.see) |
+| ```make ternary_operators``` | [ternary_operators_program.see](test_programs/ternary_operators_program.see) |
+| ```make complex_expressions``` | [complex_expressions_program.see](test_programs/complex_expressions_program.see) |
+| ```make multi_dimensional_array``` | [multi_dimensional_array_program.see](test_programs/multi_dimensional_array_program.see) |
+| ```make function_calls``` | [function_calls_program.see](test_programs/function_calls_program.see) |
+| ```make conditional_statements``` | [conditional_statements_program.see](test_programs/conditional_statements_program.see) |
+| ```make strings``` | [strings_program.see](test_programs/strings_program.see) |
+| ```make block_and_scope``` | [block_and_scope_program.see](test_programs/block_and_scope_program.see) |
 
 ## Structs Explanation :building_construction:
 

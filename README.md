@@ -548,5 +548,3 @@ The contributors of this project -
 **[Devvrat Joshi 18110076](https://github.com/devvrat-joshi)**<br>
 **[Kushagra Sharma 18110091](https://github.com/antimattercorrade)**<br> 
 **[Nishikant Parmar 18110108](https://github.com/nishikantparmariam)**<br> 
-
-# Compiler-SeeSPIM
